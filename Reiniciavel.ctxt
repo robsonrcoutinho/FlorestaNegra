@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ reiniciarParcialmente()
+comment0.text=\r\n\ Este\ m\u00E9todo\ reinicia\ parcialmente\r\n\ a\ fase\ implementada.\r\n
+comment1.params=
+comment1.target=void\ reiniciarTotalmente()
+comment1.text=\r\n\ Este\ m\u00E9todo\ reincia\ totalmente\ a\ \r\n\ fase\ implementada.\r\n
+numComments=2

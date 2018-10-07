@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ colisao()
+comment0.text=\r\n\ Este\ m\u00E9todo\ verifica\ todas\ as\ colis\u00F5es\r\n\ inclusive\ colis\u00F5es\ com\ o\ jogador,\r\n\ caso\ o\ objeto\ colida\ com\ alguma\ delas\r\n\ o\ tiro\ \u00E9\ removido.\r\n
+comment1.params=
+comment1.target=void\ colisaoCenario()
+comment1.text=\r\n\ Este\ m\u00E9todo\ verifica\ se\ o\ tiro\ colidiu\r\n\ com\ um\ elemento\ do\ cen\u00E1rio\ como\ por\ exemplo\r\n\ uma\ caixa\r\n
+comment2.params=
+comment2.target=void\ limitesCenario()
+comment2.text=\r\n\ Este\ m\u00E9todo\ verifica\ se\ o\ tiro\ atingiu\ \ os\ limites\ do\ cen\u00E1rio.\r\n
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\r\n\ Este\ m\u00E9todo\ verifica\ a\ direcao\r\n\ na\ qual\ deve\ seguir\ e\ movimenta\r\n\ o\ tiro\ no\ eixo\ X.\r\n
+comment4.params=
+comment4.target=void\ move2()
+comment4.text=\r\n\ Este\ m\u00E9todo\ verifica\ a\ dire\u00E7\u00E3o\r\n\ no\ qual\ o\ ator\ deve\ seguir\ e\ movimenta\ o\ tiro\r\n\ no\ eixo\ Y\r\n
+numComments=5

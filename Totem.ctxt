@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ chamado\ pela\ estrutura\ do\ greenfoot,\r\n\ realizando\ todas\ as\ a\u00E7\u00F5es\ do\ ator.\r\n
+comment1.params=
+comment1.target=void\ sobe()
+comment1.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ respons\u00E1vel\ por\ fazer\ o\r\n\ ator\ subir\ at\u00E9\ atingir\ a\ altura\ limite\r\n
+comment2.params=
+comment2.target=void\ desce()
+comment2.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ respons\u00E1vel\ por\ fazer\r\n\ o\ ator\ descer\ at\u00E9\ a\ altura\ limite\r\n
+comment3.params=
+comment3.target=greenfoot.Actor\ colisao()
+comment3.text=\r\n\ Este\ m\u00E9todo\ verifica\ se\ o\ ator\r\n\ colidiu\ com\ \ algum\ ator\ do\ tipo\ Oberon.\r\n@return\ Actor\r\n
+numComments=4

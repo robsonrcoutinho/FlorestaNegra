@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ move()
+comment0.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ respons\u00E1vel\ por\ mover\r\n\ esse\ ator.\r\n
+comment1.params=direita
+comment1.target=TiroBesta(boolean)
+comment1.text=\r\n\ No\ construtor\ \u00E9\ setado\ a\ dire\u00E7\u00E3o\ na\ qual\r\n\ o\ ator\ deve\ seguir\r\n\ @param\ direita\ -\ reprenta\ \ a\ dire\u00E7\u00E3o\ na\ qual\ o\ ator\ deve\ seguir.\r\n
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ chamado\ pelo\ sistema\r\n\ do\ greenfoot\ quando\ \ o\ ator\ \u00E9\ inserido\r\n\ no\ mundo.\r\n\ @param\ world\ .\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ chamado\ pela\ estrutura\ do\ greenfoot,\r\n\ realizando\ todas\ as\ a\u00E7\u00F5es\ deste\ ator.\r\n
+comment4.params=
+comment4.target=void\ animacao()
+numComments=5

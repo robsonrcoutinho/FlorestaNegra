@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=world
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment0.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ chamado\ pela\ estrutura\ do\ greenfoot,\r\n\ realizando\ todas\ as\ a\u00E7\u00F5es\ deste\ ator.\r\n\ @param\ world\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ respons\u00E1vel\ por\r\n\ realizar\ todas\ as\ a\u00E7\u00F5es\ de\ todos\ os\ \r\n\ ator.\r\n
+numComments=2

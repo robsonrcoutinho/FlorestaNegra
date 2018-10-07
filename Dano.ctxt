@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ levouDano()
+comment0.text=\r\n\ Este\ m\u00E9todo\ verifica\ se\ o\ ator\r\n\ levou\ dano;\r\n
+comment1.params=
+comment1.target=void\ dano()
+comment1.text=\r\n\ Este\ m\u00E9todo\ seta\ dano\ a\ oponentes\ do\ ator\r\n\ que\ implementar\ esta\ interface.\r\n
+comment2.params=
+comment2.target=void\ dano2()
+comment2.text=\r\n\ Este\ seta\ o\ segundo\ dano\ a\ oponentes\r\n\ do\ ator\ que\ implementar\ esta\ interface\r\n
+numComments=3

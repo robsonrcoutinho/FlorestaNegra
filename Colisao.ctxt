@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ colisao()
+comment0.text=\r\n\ Este\ m\u00E9todo\ verifica\ se\ o\ ator\ que\ a\ \r\n\ implementar\ colidiu.\r\n
+comment1.params=
+comment1.target=void\ colisaoCenario()
+comment1.text=\r\n\ Este\ m\u00E9todo\ verifica\ se\ o\ ator\ que\ a\ implementar\r\n\ colidiu\ com\ algum\ elemento\ do\ cen\u00E1rio.\r\n
+comment2.params=
+comment2.target=void\ limitesCenario()
+comment2.text=\r\n\ Este\ m\u00E9todo\ verifica\ se\ o\ ator\ que\ a\ implementar\r\n\ atingiu\ os\ limites\ do\ cen\u00E1rio.\r\n
+numComments=3

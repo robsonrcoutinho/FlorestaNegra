@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=direcao
+comment0.target=Ataque2Flora(int)
+comment0.text=\r\n\ Esse\ construtor\ recebe\ um\ int\ como\ par\u00E2metro,\r\n\ representando\ a\ possivel\ dire\u00E7\u00E3o\ na\ qual\ o\ ator\r\n\ deve\ seguir.\r\n\ @param\ direcao\ -\ direcao\ na\ qual\ o\ ator\ deve\ seguir.\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ chamado\ pelo\ sistema\r\n\ do\ greenfoot\ quando\ \ o\ ator\ \u00E9\ inserido\r\n\ no\ mundo.\r\n\ @param\ world\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ chamado\ pela\ estrutura\ do\ greenfoot,\r\n\ realizando\ todas\ as\ a\u00E7\u00F5es\ deste\ ator.\r\n
+comment3.params=
+comment3.target=void\ mira()
+comment3.text=\r\n\ Este\ m\u00E9todo\ configura\ as\ vari\u00E1veis\ posOberonX\ e\ posOberonY\r\n\ com\ as\ cordenadas\ do\ ator\ Oberon.\r\n
+comment4.params=
+comment4.target=void\ calculaDistanciaMaior()
+comment4.text=\r\n\ Este\ m\u00E9todo\ seta\ as\ cordenadas\ X\ e\ Y,\r\n\ em\ rela\u00E7\u00E3o\ a\ dist\u00E2ncia\ do\ ator\ e\ da\ base.\r\n
+numComments=5

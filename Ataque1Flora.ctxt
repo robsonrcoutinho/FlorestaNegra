@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=direcao
+comment0.target=Ataque1Flora(int)
+comment0.text=\r\n\ No\ construtor\ deste\ ator\r\n\ recebe\ um\ par\u00E2metro\ inteiro\r\n\ referente\ a\ dire\u00E7\u00E3o\ na\ qual\ ele\ deve\ seguir\r\n\ @param\ direcao\ -\ direcao\ na\ qual\ o\ ator\ deve\ seguir.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ M\u00E9todo\ respons\u00E1vel\ por\ realizar\r\n\ as\ a\u00E7\u00F5es\ do\ persoangem\r\n
+comment2.params=
+comment2.target=void\ mira()
+comment2.text=\r\n\ Este\ metodo\ obtem\ a\ posi\u00E7\u00E3o\ de\ oberon\r\n\ e\ posiona\ o\ ator\ na\ mesma\ cordenada\ X,\r\n\ e\ abaixo\ de\ Oberon\r\n
+numComments=3

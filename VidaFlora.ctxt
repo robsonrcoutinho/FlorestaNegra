@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VidaFlora()
+comment0.text=\r\n\ Nesse\ construtor\ as\ imagens\ do\ array\ img\ \r\n\ s\u00E3o\ redimensionadas\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ chamado\ pelo\ sistema\r\n\ do\ greenfoot\ quando\ \ o\ ator\ \u00E9\ inserido\r\n\ no\ mundo.\r\n\ @param\ world\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ chamado\ pela\ estrutura\ do\ greenfoot,\r\n\ realizando\ todas\ as\ a\u00E7\u00F5es\ deste\ ator.\r\n
+numComments=3

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Apocalipse()
+comment0.text=\r\n\ No\ construtor\ \u00E9\ adicionado\ alguns\ objetos,\r\n\ redimensionado\ e\ adicionado\ o\ plano\ de\ fundo\ ao\ mundo.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ chamado\ pelo\ sistema\r\n\ do\ greenfoot\ quando\ \ o\ ator\ \u00E9\ inserido\r\n\ no\ mundo.\r\n
+comment2.params=
+comment2.target=void\ comeco()
+comment3.params=
+comment3.target=void\ finaliza()
+comment4.params=
+comment4.target=void\ reiniciarTotalmente()
+comment5.params=
+comment5.target=void\ pause()
+comment6.params=
+comment6.target=void\ continuar()
+comment7.params=
+comment7.target=void\ concluirFase()
+numComments=8

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=direcao
+comment0.target=Ataque3Flora(int)
+comment0.text=\r\n\ No\ construtor\ \u00E9\ setado\r\n\ a\ dire\u00E7\u00E3o\ no\ qual\ o\ ator\ \r\n\ deve\ seguir\r\n\ @param\ direcao\ -\ dire\u00E7\u00E3o\ do\ ator.\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ chamado\ pelo\ sistema\r\n\ do\ greenfoot\ quando\ \ o\ ator\ \u00E9\ inserido\ no\ mundo.\r\n\ a\ imagem\ dele\ \u00E9\ escalada;\r\n\ @param\ world\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ chamado\ pela\ estrutura\ do\ greenfoot,\r\n\ realizando\ todas\ as\ a\u00E7\u00F5es\ deste\ ator.\r\n
+comment3.params=
+comment3.target=void\ mira()
+comment3.text=\r\n\ Este\ metodo\ obtem\ a\ posi\u00E7\u00E3o\ de\ oberon\r\n\ e\ posiona\ o\ ator\ na\ mesma\ cordenada\ X,\r\n\ e\ acima\ de\ Oberon\r\n
+numComments=4

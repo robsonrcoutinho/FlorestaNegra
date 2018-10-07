@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Primeira()
+comment0.text=\r\n\ No\ construtor\ \u00E9\ adicionado\ objetos\ ao\ mundo,\r\n\ e\ tamb\u00E9m\ \u00E9\ redimensionado\ e\ adicionado\ a\ imagem\r\n\ de\ fundo\ ao\ mundo.\r\n
+comment1.params=x\ y
+comment1.target=void\ adicionarBlocoEspetado(int,\ int)
+comment2.params=
+comment2.target=void\ adicionarBloqueio()
+comment3.params=
+comment3.target=void\ removerBloqueio()
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ chamado\ pelo\ sistema\r\n\ do\ greenfoot\ quando\ \ o\ ator\ \u00E9\ inserido\r\n\ no\ mundo.\ Nele\ tamb\u00E9m\ chamados\ o\ m\u00E9todo\ moverMundo()\r\n\ da\ super\ classe,\ respons\u00E1vel\ por\ mover\ o\ mundo.\r\n
+comment5.params=
+comment5.target=void\ proximoMundo()
+comment5.text=\r\n\ Esse\ m\u00E9todo\ atrav\u00E9s\ do\ m\u00E9todo\ setWorld()\r\n\ de\ Greenfoot,\ seta\ o\ pr\u00F3ximo\ mundo\r\n
+comment6.params=
+comment6.target=void\ reiniciarTotalmente()
+comment7.params=
+comment7.target=void\ pause()
+comment8.params=
+comment8.target=void\ continuar()
+numComments=9

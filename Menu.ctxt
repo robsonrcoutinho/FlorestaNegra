@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Menu()
+comment0.text=\r\n\ No\ construtor\ \u00E9\ adicionado\ \ objetos\r\n\ referentes\ aos\ bot\u00F5es.\ Tamb\u00E9m\ \u00E9\ redimenionado\ a\r\n\ imagem\ para\ 600*400\ e\ adicionado\ ao\ mundo.\r\n
+comment1.params=
+comment1.target=void\ started()
+comment2.params=
+comment2.target=void\ stoped()
+comment3.params=
+comment3.target=void\ desligarSom()
+numComments=4

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Energia()
+comment0.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ chamado\ quando\r\n\ o\ ator\ \u00E9\ adicionado\ ao\ mundo.\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ chamado\ pelo\ sistema\r\n\ do\ greenfoot\ quando\ \ o\ ator\ \u00E9\ inserido\r\n\ no\ mundo.\r\n\ @param\ world\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ chamado\ pela\ estrutura\ do\ greenfoot,\r\n\ realizando\ todas\ as\ a\u00E7\u00F5es\ deste\ ator.\r\n
+comment3.params=
+comment3.target=void\ diminuirEnergia()
+comment3.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ respons\u00E1vel\ por\r\n\ diminuir\ a\ energia\ do\ ator.\r\n
+comment4.params=
+comment4.target=int\ getEnergia()
+comment4.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ respons\u00E1vel\ \ por\r\n\ retorna\ os\ ponstos\ de\ energia.\r\n\ @return\ int\ -\ Pontos\ de\ energia.\ \r\n
+comment5.params=
+comment5.target=void\ recuperarPontoEnergia()
+comment5.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ respons\u00E1vel\r\n\ por\ recuperar\ os\ pontos\ de\ energia.\r\n
+comment6.params=
+comment6.target=void\ recuperarTodaEnergia()
+comment6.text=\r\n\ Este\ m\u00E9todo\ \u00E9\ respons\u00E1vel\r\n\ por\ recuperar\ toda\ a\ energia\ do\ personagem.\r\n
+numComments=7

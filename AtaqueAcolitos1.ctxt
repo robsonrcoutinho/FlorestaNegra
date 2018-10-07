@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AtaqueAcolitos1()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ animacao()
+comment3.params=
+comment3.target=void\ mira()
+comment3.text=\r\n\ Este\ metodo\ obtem\ a\ posi\u00E7\u00E3o\ de\ oberon\r\n\ e\ posiona\ o\ ator\ na\ mesma\ cordenada\ X,\r\n\ e\ acima\ de\ Oberon\r\n
+numComments=4

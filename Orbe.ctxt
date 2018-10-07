@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ pararDePiscar()
+comment2.params=
+comment2.target=void\ piscar()
+comment3.params=
+comment3.target=void\ acender()
+comment4.params=
+comment4.target=void\ apagar()
+comment5.params=
+comment5.target=void\ animacao()
+comment6.params=cls
+comment6.target=boolean\ sendoTocado(java.lang.Class)
+numComments=7

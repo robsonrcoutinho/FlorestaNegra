@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ gravidade()
+comment0.text=\r\n\ Faz\ a\ gravidade\ \ funcionar\r\n\ Se\ o\ personagem\ est\u00E1\ acima\ do\ ch\u00E3o,\r\n\ ele\ \u00E9\ movido\ para\ baixo,\ caso\ contr\u00E1rio\r\n\ ele\ pode\ pular\r\n
+comment1.params=
+comment1.target=void\ dano()
+comment1.text=\r\n\ Este\ m\u00E9todo\ deixa\ o\ dano\ true,\ assim\r\n\ diferindo\ dano\ ao\ Oberon.\r\n\ Este\ dano\ \u00E9\ temporizado;\r\n
+comment2.params=
+comment2.target=void\ dano2()
+comment2.text=\r\n\ Este\ dano\ deixa\ o\ dano\ true,\ assim\ \r\n\ diferindo\ dano\ ao\ Oberon.\r\n\ Este\ dano\ pode\ ser\ usado\ constantemente.\r\n
+comment3.params=
+comment3.target=void\ colisao()
+comment3.text=\r\n\ Este\ m\u00E9todo\ verifica\ se\ o\ personagem\ est\u00E1\r\n\ interceptando\ qalquer\ Inimigo.\r\n
+comment4.params=
+comment4.target=void\ colisaoCenario()
+comment4.text=\r\n\ Este\ m\u00E9todo\ verifica\ se\ o\ personagem\ est\u00E1\ colidindo\r\n\ com\ algum\ objeto\ do\ cen\u00E1rio.\r\n
+comment5.params=
+comment5.target=boolean\ getDirecao()
+comment5.text=\r\n\ Este\ m\u00E9todo\ retorna\ um\ boolean\r\n\ referente\ a\ dire\u00E7\u00E3o\ do\ personagem\r\n\ return\ boolean\ -\ representa\ a\ dire\u00E7\u00E3o\ na\ qual\ o\ personagem\ se\ encontra.\ true\ para\ direita\ e\ false\ esquerda.\r\n
+comment6.params=
+comment6.target=Energia\ getEnergia()
+comment6.text=\r\n\ Este\ m\u00E9todo\ retorna\ a\ energia\ do\ personagem\r\n\ @return\ Energia\ retorna\ a\ enregia\ do\ jogador.\r\n
+numComments=7

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=proximoMundo
+comment0.target=EstagioCompleto(greenfoot.World)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ EstagioCompleto.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ esperaParaMudar()
+numComments=3

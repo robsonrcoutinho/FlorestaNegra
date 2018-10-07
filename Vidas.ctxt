@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getPontoVida()
+comment0.text=\r\n\ M\u00E9todo\ respons\u00E1vel\ por\ retornar\r\n\ o\ n\u00FAmero\ de\ pontos\ de\ vida.\r\n\ @return\ int\ -\ retorna\ os\ pontos\ de\ vida.\r\n
+comment1.params=vidas
+comment1.target=void\ setPontosDeVida(int)
+comment1.text=\r\n\ M\u00E9todo\ para\ setar\ o\ n\u00FAmero\ de\ vidas.\ \r\n\ @param\ vidas\ -\ n\u00FAmero\ de\ vidas.\r\n
+comment2.params=
+comment2.target=void\ aumentarPontoVida()
+comment2.text=\r\n\ Este\ m\u00E9todo\ verifica\ se\ a\ vida\ \u00E9\r\n\ menor\ que\ 10,\ caso\ seja\ ele\r\n\ aumenta\ em\ 1\ os\ pontos\ de\ vida.\r\n
+comment3.params=
+comment3.target=void\ recuperarTodaVida()
+comment3.text=\r\n\ Este\ m\u00E9todo\ seta\ a\ vida\ para\ 10.\r\n
+comment4.params=
+comment4.target=void\ perderTodaVida()
+comment4.text=\r\n\ Este\ m\u00E9todo\ seta\ a\ vida\ para\ 0.\r\n
+comment5.params=
+comment5.target=void\ perderPontoVida()
+numComments=6

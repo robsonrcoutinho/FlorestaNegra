@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Coordenadas()
+comment0.text=\r\n\ Nesse\ construtor\ \u00E9\ atribuido\ \r\n\ as\ cordenadas\ x\ e\ Y\ os\ seus\ valores\ padr\u00F5es.\r\n
+comment1.params=x\ y
+comment1.target=Coordenadas(int,\ int)
+comment1.text=\r\n\ Este\ construtor\ recebe\ dois\ par\u00E2metros\r\n\ referentes\ aos\ eixos\ X\ e\ Y;\r\n\ @param\ x,y\ -\ S\u00E3o\ referentes\ as\ cordenadas\ no\ eixo\ X\ e\ Y.\ \r\n
+comment2.params=x\ y
+comment2.target=void\ setCoordenadas(int,\ int)
+comment2.text=\r\n\ Seta\ os\ valores\ das\ cordenadas.\r\n\ @paran\ x,y\ -\ S\u00E3o\ referentes\ as\ cordenadas\ no\ eixo\ X\ e\ Y.\r\n
+comment3.params=
+comment3.target=int\ getX()
+comment3.text=\r\n\ Retorna\ a\ cordena\ do\ eixo\ X.\r\n\ @return\ int\ -\ referente\ a\ cordenada\ do\ eixo\ X.\r\n
+comment4.params=
+comment4.target=int\ getY()
+comment4.text=\r\n\ Retorna\ a\ cordenada\ do\ eixo\ Y.\r\n\ @return\ int\ -\ referente\ a\ cordenada\ do\ eixo\ Y.\r\n
+numComments=5

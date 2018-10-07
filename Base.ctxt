@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=width\ height\ tile
+comment0.target=Base(int,\ int,\ greenfoot.GreenfootImage)
+comment0.text=\r\n\ O\ constutor\ recbee\ tr\u00EAs\ par\u00E2metros,\r\n\ dois\ inteiror\ referente\ a\ altura\ e\ lagura\ do\ objeto,\r\n\ e\ a\ imagem\ que\ o\ objeto\ usur\u00E1.\r\n\ @param\ width\ -\ refere-se\ a\ altura\ do\ objeto,\ height\ altura\ do\ objeto\ e\ GreenfootImage,\ tile\ -\ a\ imagem\ que\ ser\u00E1\ setada\ no\ objeto.\r\n
+numComments=1
