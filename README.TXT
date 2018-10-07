@@ -9,7 +9,7 @@ PURPOSE OF PROJECT: Este é um jogo para entreter a todos que desejarem jogar. E
 aventura fase a fase. Movimentos Quadro a Quadro.
 VERSION or DATE: Dezembro, 2013.
 HOW TO START THIS PROJECT: Este projeto se iniciou a pedido de um professor, como trabalho de Faculdade.
-AUTHORS: Jeferson Carneiro, Roberto William, Robson.
+AUTHORS: Robson Coutinho, Jeferson, Roberto William.
 USER INSTRUCTIONS: Clique em Jogar no menu inicial para, iniciar o jogo.
     As teclas de atalho para se movimentar são w,s(cima e baixo), a,d(esquerda e direita).
-    As telcas de atalho h - pulo j-tiro k-bater.
+    As teclas de atalho h - pulo j-tiro k-bater.
